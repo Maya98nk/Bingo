@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "50479152884",
+    "project_id": "bingocat-4dbc2",
+    "storage_bucket": "bingocat-4dbc2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50479152884:android:2453f3af563f13a0c6a8a1",
+        "android_client_info": {
+          "package_name": "com.gdsc.catbingo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB00pBhgy4d0ADTygUgR_yEskgp-T5W7bk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
